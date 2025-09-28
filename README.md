@@ -13,10 +13,13 @@ This mini project analyzes job postings dataset to explore insights about salari
 - Power BI (Dashboard & Visualization)
 
 ## Key Insights
-- Jobs are concentrated in NY, VA, MA.
-- Data Scientists earn higher average salaries.
-- Large companies (10,000+ employees) dominate postings.
-- Tech & Finance sectors lead in hiring.
+•	Most job postings are concentrated in states such as DE, WI and NC
+•	Analyst jobs have higher postings
+•	Data Scientist roles show higher salary averages compared to analyst roles
+•	Large sized companies dominate hiring
+•	Many jobs are offered by well established companies and mid age companies
+•	Startup companies offer fewer jobs but provide competitive salary
+•	Technology leads in both no. of jobs and salary
 
 
 
